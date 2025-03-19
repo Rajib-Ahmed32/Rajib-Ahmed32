@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Rajib-Ahmed32/Rajib-Ahmed32/blob/main/rajib-github-cover.png)
 ## 🔥 About Me  
 - I’m a **Junior Web Developer** currently working on a **responsive JavaScript and React project**.  
 - My primary focus is **frontend development**, specializing in **React.js, JavaScript (ES6+), and modern UI frameworks**.  
