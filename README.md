@@ -15,10 +15,6 @@
 
 ---
 
-## 🌐 My Projects  
-Explore my deployed projects and demos on **Netlify**:  
-[https://app.netlify.com/teams/rajibkh25032/projects](https://app.netlify.com/teams/rajibkh25032/projects)
-
 ---
 
 ## 🌐 Connect with me  
