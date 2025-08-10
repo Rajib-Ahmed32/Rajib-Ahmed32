@@ -1,33 +1,33 @@
 ![logo](https://github.com/Rajib-Ahmed32/Rajib-Ahmed32/blob/main/rajib-github-cover.png)
 
-## 🔥 About Me  
+##  About Me  
 
 I’m a **Junior MERN Stack Developer** passionate about building scalable and user-friendly full-stack web applications.  
 I specialize in **MongoDB, Express.js, React.js, and Node.js**, with strong skills in **JavaScript (ES6+), REST APIs, and JWT authentication**.  
 Focused on writing **clean, maintainable code** and constantly exploring new technologies to improve my craft.  
 
 
-## 📌 Current Activities  
+##  Current Activities  
 
-- 🚀 Learning **TypeScript** and **Next.js** for type-safe, scalable applications.  
-- 🌐 Building a **tourism web application** with MERN stack.  
-- ⚡ Exploring **backend optimization** and **CI/CD workflows** with GitHub Actions.  
+-  Learning **TypeScript** and **Next.js** for type-safe, scalable applications.  
+-  Building a **tourism web application** with MERN stack.  
+-  Exploring **backend optimization** and **CI/CD workflows** with GitHub Actions.  
 
 
-## 🤝 Collaboration & Learning  
+##  Collaboration & Learning  
 
 - Open to **MERN stack projects**, API development, and real-world full-stack apps.  
 - Interested in contributing to **Next.js** and **TypeScript** projects.  
 
 
-## 🌐 Connect with Me  
+##  Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajib-ahmed-15997626a/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rajibahmed25032?t=E6aGTideV_wqSXsmap98YQ&s=09) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devrajibahmed@gmail.com)  
 
 
-# 💻 Tech Stack  
+#  Tech Stack  
 
 ### **Frontend**  
 <p>
@@ -59,7 +59,7 @@ Focused on writing **clean, maintainable code** and constantly exploring new tec
  
 <br>
 
-# 📊 GitHub Stats  
+#  GitHub Stats  
 
 ![](https://github-readme-stats.vercel.app/api?username=Rajib-Ahmed32&theme=swift&hide_border=false&include_all_commits=true&count_private=false)  
 
