@@ -1,4 +1,4 @@
-![logo](https://github.com/Rajib-Ahmed32/Rajib-Ahmed32/blob/main/rajib-github-cover.png)
+![logo](https://github.com/Rajib-Ahmed32/Rajib-Ahmed32/blob/4120915a893564337058c7f9e13d98984b2ba428/linkedin_banner_rajib.png)
 
 ##  About Me  
 
