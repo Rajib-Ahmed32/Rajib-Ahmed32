@@ -24,6 +24,8 @@ Focused on writing **clean, maintainable code** and constantly exploring new tec
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajib-ahmed-15997626a/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rajibahmed25032?t=E6aGTideV_wqSXsmap98YQ&s=09) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/rajib.ahmed.632184)
+
 
 
 #  Tech Stack  
