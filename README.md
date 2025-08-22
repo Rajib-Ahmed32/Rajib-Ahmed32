@@ -2,7 +2,7 @@
 
 ##  About Me  
 
-I’m a **Junior MERN Stack Developer** passionate about building scalable and user-friendly full-stack web applications.  
+I’m a ** Frontend Developer** passionate about building scalable and user-friendly full-stack web applications.  
 I specialize in **MongoDB, Express.js, React.js, and Node.js**, with strong skills in **JavaScript (ES6+), REST APIs, and JWT authentication**.  
 Focused on writing **clean, maintainable code** and constantly exploring new technologies to improve my craft.  
 
@@ -16,7 +16,7 @@ Focused on writing **clean, maintainable code** and constantly exploring new tec
 
 ##  Collaboration & Learning  
 
-- Open to **MERN stack projects**, API development, and real-world full-stack apps.  
+- Open to **Frontend projects**, API development, and real-world full-stack apps.  
 - Interested in contributing to **Next.js** and **TypeScript** projects.  
 
 
