@@ -1,6 +1,7 @@
 
 
-# Rajib Ahamed | MERN Stack Developer
+![MERN Stack](https://github.com/Rajib-Ahmed32/Rajib-Ahmed32/blob/e03385c9fedc4e94e53d5bfd99933a1f5e9a369c/mern-stack.png?raw=true)
+
 
 ## About Me
 
