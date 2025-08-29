@@ -1,4 +1,4 @@
-![logo](https://github.com/Rajib-Ahmed32/Rajib-Ahmed32/blob/4120915a893564337058c7f9e13d98984b2ba428/linkedin_banner_rajib.png)
+
 
 # Rajib Ahamed | MERN Stack Developer
 
@@ -51,7 +51,6 @@ Focused on writing **clean, maintainable code** and constantly exploring **moder
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 </p>
 
-## Projects 
 
 ## GitHub Stats
 
